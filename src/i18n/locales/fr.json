@@ -1,0 +1,98 @@
+{
+  "nav": {
+    "home": "Accueil",
+    "about": "À propos",
+    "projects": "Projets"
+  },
+  "hero": {
+    "name": "Arsenii Marchenko",
+    "tagline": "Développeur autodidacte passionné qui transforme les problèmes complexes en solutions simples",
+    "aboutTitle": "À propos de moi",
+    "aboutDescription": "Découvrez mon parcours, mes compétences et ma passion pour transformer les idées en réalité.",
+    "projectsTitle": "Projets",
+    "projectsDescription": "Explorez mon portfolio, animé par la curiosité et l'amour d'apprendre.",
+    "contactTitle": "Contact",
+    "contactDescription": "Des questions ou envie de dire bonjour ? N'hésitez pas à me contacter !"
+  },
+  "about": {
+    "title": "À propos de moi",
+    "subtitle": "Développeur autodidacte passionné qui transforme les problèmes complexes en solutions simples",
+    "greeting": "Bonjour, je suis Arsenii",
+    "description1": "Je suis un développeur autodidacte qui aime créer et apprendre de nouvelles choses. Je code depuis l'âge de 9 ans, explorant différentes technologies et projets en cours de route. Ma curiosité me pousse à expérimenter, relever des défis et trouver des solutions créatives. Au fil du temps, j'ai développé un ensemble de compétences polyvalentes et une vraie appréciation pour un code propre et pratique. Je suis toujours excité d'essayer de nouveaux projets et de continuer à apprendre.",
+    "description2": "Dans mon temps libre, j'aime regarder les compétitions de sport automobile, en particulier la Formule 1 et la Formule E. La compétitivité et l'action à haute vitesse m'inspirent à repousser mes propres limites.",
+    "technicalSkills": "Compétences techniques",
+    "codingSkills": "Compétences en programmation",
+    "designTools": "Design et outils",
+    "howIWork": "Comment je travaille",
+    "planning": "Planification",
+    "planningDescription": "Chaque tâche commence par une idée, mais une idée sans plan n'est qu'un souhait. Alors je commence chaque projet en comprenant ce que je veux accomplir, quels outils devraient être utilisés. Et parfois, si nécessaire, je crée des concepts pour visualiser le résultat final.",
+    "development": "Développement",
+    "developmentDescription": "Une fois que j'ai un plan clair, je me lance dans le développement. Je sépare chaque fonctionnalité en tâches gérables pour m'aider à mieux coordonner l'ensemble du processus. Je me concentre sur l'écriture d'un code fonctionnel qui est facile à maintenir et potentiellement évolutif.",
+    "finalCheck": "Vérification finale",
+    "finalCheckDescription": "Une fois le développement terminé, je teste minutieusement le projet sur différents appareils pour m'assurer que tout fonctionne comme prévu pour l'utilisateur final. Si nécessaire, j'apporte des ajustements pour garantir une expérience fluide.",
+    "letsConnect": "Connectons-nous",
+    "connectDescription": "Je suis toujours intéressé par de nouvelles opportunités et collaborations. Que vous ayez un projet en tête ou que vous vouliez simplement discuter de design et de développement, j'aimerais vous entendre.",
+    "emailMe": "M'envoyer un email"
+  },
+  "projects": {
+    "title": "Projets",
+    "subtitle": "Une vitrine de mon travail allant du développement web à la conception de jeux.",
+    "technologies": "Technologies",
+    "code": "Code",
+    "liveDemo": "Démo en direct",
+    "liveDemo2": "Démo en direct 2",
+    "download": "Télécharger",
+    "viewWebsite": "Voir le site web",
+    "demoVideo": "Vidéo de démonstration",
+    "demoVideo2": "Vidéo de démonstration 2",
+    "figmaDesign": "Design Figma",
+    "projectEuler": "Project Euler",
+    "project1": {
+      "title": "Jeu Unity - Beat The Dev",
+      "description": "Ma tentative de développement de jeu - un jeu de puzzle où vous essayez de me battre à mes propres défis !",
+      "longDescription": "Je voulais créer un jeu qui défierait le joueur tout en montrant certains des concepts de programmation que j'ai appris. Les joueurs doivent traverser différents défis de parcours avec différentes compétences pour progresser dans les niveaux."
+    },
+    "project2": {
+      "title": "Site web Health Hub avec intégration d'API",
+      "description": "Construit pour mettre en valeur mes capacités en développement web - une plateforme de santé pleine d'outils utiles alimentés par des API",
+      "longDescription": "C'était l'un de mes projets web les plus ambitieux ! Je voulais créer quelque chose d'utile, pas juste une autre application de tâches. Il récupère des données de diverses API de santé pour vous donner des informations sur la qualité de l'air, calculer votre IMC, analyser la nutrition des aliments, rechercher des informations sur les médicaments. L'intégration d'API était complexe mais si satisfaisante quand tout a finalement fonctionné ensemble."
+    },
+    "project3": {
+      "title": "Solutions Project Euler avec JavaScript",
+      "description": "Ma tentative de résoudre autant de problèmes Project Euler que possible.",
+      "longDescription": "Project Euler m'a donné un excellent moyen d'explorer les algorithmes et la résolution de problèmes. Travailler sur les problèmes m'a aidé à comprendre l'optimisation, le raisonnement mathématique et les approches intelligentes aux défis. Chaque solution est devenue une leçon pratique sur le fonctionnement des algorithmes."
+    },
+    "project4": {
+      "title": "Projet de robotique - Voiture",
+      "description": "J'ai dû réparer une voiture robot cassée et la faire fonctionner à partir de rien !",
+      "longDescription": "C'était un défi amusant où j'ai hérité d'une voiture robotique non-fonctionnelle et j'ai dû trouver comment la ramener à la vie. J'ai recommencé à zéro avec la programmation Arduino, réparé les connexions matérielles, et j'ai réussi d'une manière ou d'une autre à faire conduire cette chose de manière autonome."
+    },
+    "project5": {
+      "title": "Générateur de vidéo IA",
+      "description": "Construit un flux de travail de création de vidéo IA utilisant des modèles locaux - parce que la confidentialité compte et les API sont chères !",
+      "longDescription": "J'en avais marre de payer pour des services de génération de vidéo IA et je voulais plus de contrôle sur mes données, alors j'ai construit ma propre solution. Cela utilise n8n pour orchestrer tout, LM Studio pour exécuter des modèles IA locaux, et FFMPEG pour assembler le tout en vraies vidéos. C'est une preuve de concept qui montre que vous n'avez pas toujours besoin de compter sur des API externes - parfois l'approche DIY est plus amusante (et moins chère) !"
+    },
+    "project6": {
+      "title": "Health Hub Université de Sherbrooke",
+      "description": "Une autre plateforme de santé que j'ai construite - cette fois axée sur la nutrition, l'exercice et les conseils de bien-être",
+      "longDescription": "Après avoir construit le premier hub de santé, je voulais essayer une approche différente axée davantage sur le bien-être quotidien. Celui-ci est tout au sujet d'aider les gens à faire de meilleurs choix avec des conseils nutritionnels personnalisés, le suivi d'exercices avec des calculs de calories, et des conseils pratiques de bien-être. J'ai vraiment apprécié travailler sur l'expérience utilisateur - essayer de rendre l'information sur la santé réellement accessible et non accablante."
+    },
+    "project7": {
+      "title": "Design d'application de réseau social + Prototype",
+      "description": "Conçu un concept d'application de réseau social et construit un prototype fonctionnel pour tester mes idées",
+      "longDescription": "J'avais cette idée pour un type différent d'application de réseau social et je voulais voir si je pouvais la donner vie. J'ai commencé avec des wireframes et des flux utilisateur dans Figma, puis j'ai construit un prototype fonctionnel en React Native pour tester le concept. Le processus de design était fascinant - essayer d'équilibrer l'engagement des utilisateurs avec des interactions sociales réellement saines. Vous pouvez consulter à la fois les fichiers de design et une vidéo de démonstration du prototype en action."
+    },
+    "project8": {
+      "title": "Jeu Unity - Whiskers Labyrinth Paws of Peri",
+      "description": "Un mignon petit jeu de plateforme sur un chat essayant de retrouver son chemin vers la maison",
+      "longDescription": "Un jeu de plateforme léger où un chat explore un labyrinthe mystérieux. Construit avec un accent sur un gameplay fluide et des visuels charmants, le projet se concentre sur la livraison d'une expérience simple et agréable."
+    }
+  },
+  "contact": {
+    "title": "Entrer en contact",
+    "github": "GitHub"
+  },
+  "common": {
+    "close": "Fermer"
+  }
+}
