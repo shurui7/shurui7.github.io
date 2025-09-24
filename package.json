@@ -13,7 +13,7 @@
     "preview": "vite preview",
     "health-hub": "cd Websites/HealthHubUDEM && npm start",
     "predeploy": "npm run build",
-    "deploy": "gh-pages -d dist -t true"
+    "deploy": "gh-pages -d dist -b main -t true"
   },
   "dependencies": {
     "@hookform/resolvers": "^3.10.0",
