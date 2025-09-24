@@ -5,7 +5,7 @@ import path from "path";
 // https://vitejs.dev/config/
 export default defineConfig(({ mode }) => ({
   plugins: [react()],
-  base: '/',
+  base: mode === 'development' ? '/' : '/shurui7.github.io/',
   server: {
     host: "::",
     port: 8080,
